@@ -1,0 +1,21 @@
+notes, in no particular form.
+
+lircd needs to be in:
+/etc/lirc/lircd_original.conf
+
+start lirc with:
+sudo /etc/init.d/lirc start
+
+installing lirc:
+sudo apt-get install lirc liblircclient-dev
+
+sudo nano /etc/lirc/hardware.conf
+sudo nano /etc/modules
+
+playing with lirc:
+irrecord --list-namespace
+irrecord -d /dev/lirc0 ~/lircd.conf
+irw
+
+installing library:
+sudo apt-get install python-lirc

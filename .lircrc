@@ -1,0 +1,78 @@
+begin
+  button = KEY_BLUE
+  prog = myprogram
+  config = blue
+end
+
+begin
+  button = KEY_RED
+  prog = myprogram
+  config = red
+end
+
+begin
+  button = KEY_GREEN
+  prog = myprogram
+  config = green
+end
+
+begin
+  button = KEY_YELLOW
+  prog = myprogram
+  config = yellow
+end
+
+begin
+  button = KEY_POWER
+  prog = myprogram
+  config = power
+end
+
+begin
+  button = KEY_VOLUMEUP
+  prog = myprogram
+  config = brighter
+end
+
+begin
+  button = KEY_VOLUMEDOWN
+  prog = myprogram
+  config = dimmer
+end
+
+begin
+  button = KEY_CHANNELUP
+  prog = myprogram
+  config = maxbright
+end
+
+begin
+  button = KEY_CHANNELDOWN
+  prog = myprogram
+  config = maxdim
+end
+
+begin
+  button = KEY_1
+  prog = myprogram
+  config = 1
+end
+
+begin
+  button = KEY_2
+  prog = myprogram
+  config = 2
+end
+
+begin
+  button = KEY_0
+  prog = myprogram
+  config = 0
+end
+
+begin
+  button = KEY_9
+  prog = myprogram
+  config = 9
+end
+
